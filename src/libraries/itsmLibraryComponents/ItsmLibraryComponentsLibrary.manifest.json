@@ -1,0 +1,9 @@
+{
+  "id": "25369a94-7239-4b0a-b6bc-6aad09f46a56",
+  "alias": "ItsmLibraryComponentsLibrary",
+  "componentType": "Library",
+
+  // The "*" signifies that the version should be taken from the package.json
+  "version": "*",
+  "manifestVersion": 2
+}
